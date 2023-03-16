@@ -8,7 +8,7 @@ In this paper, we address the problem of video temporal sentence localization, w
 
 ## Pipeline
 
-![pipeline](imgs/pipeline.png)
+![pipeline](https://raw.githubusercontent.com/minghangz/TRM/main/pipeline.png)
 
 ## Requiments
 

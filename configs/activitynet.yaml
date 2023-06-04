@@ -13,7 +13,7 @@ MODEL:
       POOLING_COUNTS: [15, 8, 8]
     TEXT_ENCODER:
       NAME: "BERT"
-      USE_PHRASE: False
+      USE_PHRASE: True
     PREDICTOR:
       HIDDEN_SIZE: 512
       KERNEL_SIZE: 9

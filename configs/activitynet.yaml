@@ -34,8 +34,8 @@ MODEL:
       USE_SCORE_MAP_LOSS: True
       USE_FOCAL_LOSS: True
       CONTRASTIVE: True
-      CONSIS_WEIGHT: 0.1
-      EXC_WEIGHT: 0.1
+      CONSIS_WEIGHT: 0.0
+      EXC_WEIGHT: 0.0
       THRESH: 0.2
 DATASETS:
   NAME: "activitynet"
